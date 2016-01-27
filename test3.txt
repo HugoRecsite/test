@@ -7,6 +7,7 @@
 		Trabajando en la section 1 
 		Esta es otra línea de la seccion 1 para pruebas
 		TRalarlalal
+		Otra linea mas para comprobar
 	</SECTION>
 	
 	<SECTION>
