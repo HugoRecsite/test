@@ -12,6 +12,8 @@
 	
 	<SECTION>
                 Trabajando en la section 3
+                Checando como funciona github
+                Kamikadze Karma eto ya
 	</SECTION>
 </BODY>
 
