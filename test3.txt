@@ -4,7 +4,9 @@
 
 <BODY>
 	<SECTION>
-		Trabajando en la section 1
+		Trabajando en la section 1 
+		Esta es otra línea de la seccion 1 para pruebas
+		TRalarlalal
 	</SECTION>
 	
 	<SECTION>
