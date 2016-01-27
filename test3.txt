@@ -4,7 +4,7 @@
 
 <BODY>
 	<SECTION>
-		Trabajando en la section 1 
+		Trabajando en la section 1 a esta linea le agrego algo
 		Esta es otra línea de la seccion 1 para pruebas
 		TRalarlalal
 		Otra linea mas para comprobar
@@ -16,7 +16,7 @@
 	<SECTION>
                 Trabajando en la section 3
                 Checando como funciona github
-                Kamikadze Karma eto ya
+                Kamikadze Karma eto ya 
 	</SECTION>
 </BODY>
 
