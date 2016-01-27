@@ -16,7 +16,8 @@
 	<SECTION>
                 Trabajando en la section 3
                 Checando como funciona github
-                Kamikadze Karma eto ya 
+                Kamikadze Karma eto ya
+                Everybody go to kolobokkk!
 	</SECTION>
 </BODY>
 
