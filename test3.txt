@@ -1,4 +1,4 @@
-<HEADER>
+﻿<HEADER>
 	Aqui va una descripción general del sitio
 </HEADER>
 
@@ -11,6 +11,7 @@
 	</SECTION>
 	
 	<SECTION>
+                Trabajando en la section 3
 	</SECTION>
 </BODY>
 
