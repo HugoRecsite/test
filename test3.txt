@@ -1,5 +1,5 @@
 <HEADER>
-
+	Aqui va una descripción general del sitio
 </HEADER>
 
 <BODY>
